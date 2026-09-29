@@ -1,0 +1,6 @@
+# Credenciales locales de Streamlit
+**/.streamlit/secrets.toml
+
+# Archivos temporales de Python
+__pycache__/
+*.pyc
